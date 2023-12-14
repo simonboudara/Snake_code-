@@ -2,7 +2,7 @@ import pyxel
 
 pyxel.init(30, 30,fps=10) #initialisation de la fenetre
   
-snake_direction = [1, 0]
+snake_direction = [1, 0] #je change un truc 
 
 rocks = []
 for i in range(30):
